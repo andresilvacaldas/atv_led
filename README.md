@@ -1,4 +1,4 @@
-1-Clone o repositório: git clone https://github.com/andresilvacaldas/atv_semaforo.git
+1-Clone o repositório: git clone https://github.com/andresilvacaldas/atv_led.git
 
 2-Abra o projeto no VS Code utilizando a extensão da Raspberry.
 
